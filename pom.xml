@@ -16,7 +16,7 @@
              2.2继承实现WebRequestInterceptor接口的实现类
     -->
     <properties>
-        <spring.version>4.3.9.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
     </properties>
     <!--依赖群-->
     <dependencies>
